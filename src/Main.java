@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws FileNotFoundException  {
-
+        System.out.println("hi aaron");
         int  counter = 1 ;
 
       File file1 = new File("src/resources/names.txt");
